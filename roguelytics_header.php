@@ -1,0 +1,2 @@
+<div class="roguelytics_logo"><img src="<?php echo plugins_url('images/plugin_site_logo.png', __FILE__); ?>"> Roguelytics</div>
+<div class="landing_bkg" style="background-image: url(<?php echo plugins_url('images/landing_bkg.png', __FILE__); ?>)"></div>
